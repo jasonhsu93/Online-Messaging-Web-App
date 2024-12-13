@@ -1,4 +1,4 @@
-# Chat Application with AI-Powered Summarization
+# AntiYapAI - A Chat Application with AI-Powered Summarization
 
 ![Node.js](https://img.shields.io/badge/node.js-v14.0.0-brightgreen.svg)
 ![Express](https://img.shields.io/badge/express-v4.17.1-lightgrey.svg)
