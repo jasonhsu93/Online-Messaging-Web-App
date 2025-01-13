@@ -20,6 +20,8 @@
 
 A real-time chat application enabling users to communicate within multiple chatrooms. The newly integrated **Chat Summary** feature leverages AI to provide concise summaries of conversations and messages, enhancing usability and productivity. Technologies used include **Node.js**, **Express**, **MongoDB**, **WebSockets**, and **Ollama**.
 
+Video Demo: https://drive.google.com/file/d/1dDhMH1iscrBMiZD-qqgRVlYFewaPoPOa/view?usp=sharing
+
 ---
 
 ## Features
